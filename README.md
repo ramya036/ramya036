@@ -1,11 +1,12 @@
 # Hi, I'm Ramya Sree Narra 👋
 
-**Software Engineer** · MS Computer Science @ Georgia State University (Dec 2026) · Atlanta, GA
+**Full-Stack & AI Engineer** · MS Computer Science @ Georgia State University (Dec 2026) · Atlanta, GA
 
-I build distributed backend systems and applied AI tools. Most recently I was a **Software Engineering Intern at Google**, where I built an AI-powered production investigation agent. Before grad school I spent two years at **Verizon** building event-driven Kafka pipelines and observability platforms.
+I build full-stack products and the AI features inside them: React front ends, Spring Boot and FastAPI back ends, and LLM/RAG pipelines that turn data into answers. Most recently I was a **Software Engineering Intern at Google**, where I built an AI agent that cut production investigation time by 60%. Before grad school I spent two years at **Verizon** building event-driven Kafka pipelines and observability platforms.
 
-- 🔭 Currently: Graduate Research Assistant working on RAG and clinical NLP
-- 🎯 Looking for: **Full-time Software Engineer roles starting 2027**
+- 🔭 Currently: Graduate Research Assistant building RAG and clinical NLP systems
+- 🎯 Looking for: **Full-Stack, AI/ML and LLM Engineer roles** (full-time, starting 2027)
+- 🧠 Interested in: LLM applications, RAG, AI agents, and end-to-end product engineering
 - 📫 Reach me: [ramyasreenarra2001@gmail.com](mailto:ramyasreenarra2001@gmail.com) · [LinkedIn](https://linkedin.com/in/ramyasreenarra)
 
 ---
@@ -25,10 +26,10 @@ I build distributed backend systems and applied AI tools. Most recently I was a 
 
 ### 🚀 Featured Projects
 
-**[AskDB](https://github.com/ramya036/askdb)** — Ask questions about a database in plain English and get SQL back.
+**🤖 AI: [AskDB](https://github.com/ramya036/askdb)** — Ask questions about a database in plain English and get SQL back. Retrieval over the schema with FAISS, few-shot prompting, self-correcting generation with Gemini, and read-only execution guardrails.
 `Python` `FastAPI` `FAISS` `RAG` `Gemini API` `SQLite`
 
-**[MealMate](https://github.com/ramya036/mealmate)** — Full-stack food ordering platform with JWT auth, role-based access and Stripe payments.
+**🌐 Full-stack: [MealMate](https://github.com/ramya036/mealmate)** — Food ordering platform with a React front end, Spring Boot REST API, JWT auth, role-based access and Stripe payments confirmed by signed webhooks.
 `Java` `Spring Boot` `React` `MySQL` `Stripe` `Docker`
 
 **More projects**
