@@ -31,6 +31,17 @@ I build distributed backend systems and applied AI tools. Most recently I was a 
 **[MealMate](https://github.com/ramya036/mealmate)** — Full-stack food ordering platform with JWT auth, role-based access and Stripe payments.
 `Java` `Spring Boot` `React` `MySQL` `Stripe` `Docker`
 
+**More projects**
+
+| Project | What it is | Tech |
+|---|---|---|
+| [nestpoint-real-estate](https://github.com/ramya036/nestpoint-real-estate) | Real estate listings with buyer, seller and admin roles | PHP, MySQL |
+| [object-detection-opencv](https://github.com/ramya036/object-detection-opencv) | Object detection in images and live webcam video | Python, OpenCV |
+| [multilingual-translator](https://github.com/ramya036/multilingual-translator) | Translate and transliterate text, files or speech | Python, Tkinter |
+| [voice-assistant](https://github.com/ramya036/voice-assistant) | Voice-controlled desktop assistant | Python |
+| [react-produce-filter](https://github.com/ramya036/react-produce-filter) · [tic-tac-toe-react](https://github.com/ramya036/tic-tac-toe-react) | React apps: search/filter list and a game vs. the computer | React |
+| [fifteen-puzzle](https://github.com/ramya036/fifteen-puzzle) | Sliding-tile puzzle with timer and move counter | JavaScript, jQuery |
+
 ---
 
 ### 🛠️ Tech Stack
