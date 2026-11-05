@@ -25,18 +25,22 @@ I build full-stack products and the AI features inside them: React front ends, S
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
-**🤖 AI: [AskDB](https://github.com/ramya036/askdb)** — Ask questions about a database in plain English and get SQL back. Retrieval over the schema with FAISS, few-shot prompting, self-correcting generation with Gemini, and read-only execution guardrails.
-`Python` `FastAPI` `FAISS` `RAG` `Gemini API` `SQLite`
-
-**🌐 Full-stack: [MealMate](https://github.com/ramya036/mealmate)** — Food ordering platform with a React front end, Spring Boot REST API, JWT auth, role-based access and Stripe payments confirmed by signed webhooks.
-`Java` `Spring Boot` `React` `MySQL` `Stripe` `Docker`
-
-**More projects**
+Every project has tests that run on GitHub Actions, a screenshot and a README in the same format. Live demos are on my [portfolio](https://ramya036.github.io/#projects).
 
 | Project | What it is | Tech |
 |---|---|---|
+| 🤖 **[AskDB](https://github.com/ramya036/askdb)** | Ask a database questions in plain English: RAG over the schema with FAISS, Gemini writes safe read-only SQL | Python, FastAPI, FAISS, Gemini |
+| 🌐 **[MealMate](https://github.com/ramya036/mealmate)** | Food ordering with JWT auth, customer and admin roles, and Stripe payments confirmed by signed webhooks | Java, Spring Boot, React, MySQL, Stripe |
+| 👁️ **[Object detection](https://github.com/ramya036/object-detection-opencv)** | Detects 80 kinds of objects in photos and live webcam video | Python, OpenCV |
+| 🏠 **[Nest Point](https://github.com/ramya036/nestpoint-real-estate)** | Real estate listings with buyer, seller and admin dashboards | PHP, MySQL, Docker |
+| 🌏 **[Multilingual translator](https://github.com/ramya036/multilingual-translator)** | Translates and transliterates text, PDFs or speech across Indian languages | Python, Tkinter |
+| 🎙️ **[Voice assistant](https://github.com/ramya036/voice-assistant)** | Hands-free assistant for Windows, macOS and Linux | Python, Speech recognition |
+| 🎮 **[Tic-tac-toe](https://github.com/ramya036/tic-tac-toe-react)** · [play](https://ramya036.github.io/tic-tac-toe/) | Play against a computer that wins and blocks | React, Jest |
+| 🥕 **[Produce finder](https://github.com/ramya036/react-produce-filter)** · [try](https://ramya036.github.io/produce-filter/) | Instant search and type filters | React, Jest |
+
+---|---|---|
 | [nestpoint-real-estate](https://github.com/ramya036/nestpoint-real-estate) | Real estate listings with buyer, seller and admin roles | PHP, MySQL |
 | [object-detection-opencv](https://github.com/ramya036/object-detection-opencv) | Object detection in images and live webcam video | Python, OpenCV |
 | [multilingual-translator](https://github.com/ramya036/multilingual-translator) | Translate and transliterate text, files or speech | Python, Tkinter |
