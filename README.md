@@ -7,7 +7,7 @@ I build full-stack products and the AI features inside them: React front ends, S
 - 🔭 Currently: Graduate Research Assistant building RAG and clinical NLP systems
 - 🎯 Looking for: **Full-Stack, AI/ML and LLM Engineer roles** (full-time, starting 2027)
 - 🧠 Interested in: LLM applications, RAG, AI agents, and end-to-end product engineering
-- 📫 Reach me: [ramyasreenarra2001@gmail.com](mailto:ramyasreenarra2001@gmail.com) · [LinkedIn](https://linkedin.com/in/ramyasreenarra)
+- 📫 Reach me: [rnarrasree@gmail.com](mailto:rnarrasree@gmail.com) · [LinkedIn](https://linkedin.com/in/ramyasreenarra)
 
 ---
 
