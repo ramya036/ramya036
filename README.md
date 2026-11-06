@@ -31,6 +31,8 @@ Every project has tests that run on GitHub Actions, a screenshot and a README in
 
 | Project | What it is | Tech |
 |---|---|---|
+| 🧭 **[Job Copilot](https://github.com/ramya036/job-copilot)** | AI agent that tailors a résumé to a job, checks every line against the original and revises anything it made up | Python, FastAPI, React, Gemini |
+| 🗺️ **[Codebase Guide](https://github.com/ramya036/codebase-guide)** | AI agent that explores a GitHub repo with tools and answers with verified citations to the exact lines | Python, FastAPI, React, Gemini |
 | 🤖 **[AskDB](https://github.com/ramya036/askdb)** | Ask a database questions in plain English: RAG over the schema with FAISS, Gemini writes safe read-only SQL | Python, FastAPI, FAISS, Gemini |
 | 🌐 **[MealMate](https://github.com/ramya036/mealmate)** | Food ordering with JWT auth, customer and admin roles, and Stripe payments confirmed by signed webhooks | Java, Spring Boot, React, MySQL, Stripe |
 | 👁️ **[Object detection](https://github.com/ramya036/object-detection-opencv)** | Detects 80 kinds of objects in photos and live webcam video | Python, OpenCV |
@@ -40,13 +42,6 @@ Every project has tests that run on GitHub Actions, a screenshot and a README in
 | 🎮 **[Tic-tac-toe](https://github.com/ramya036/tic-tac-toe-react)** · [play](https://ramya036.github.io/tic-tac-toe/) | Play against a computer that wins and blocks | React, Jest |
 | 🥕 **[Produce finder](https://github.com/ramya036/react-produce-filter)** · [try](https://ramya036.github.io/produce-filter/) | Instant search and type filters | React, Jest |
 
----|---|---|
-| [nestpoint-real-estate](https://github.com/ramya036/nestpoint-real-estate) | Real estate listings with buyer, seller and admin roles | PHP, MySQL |
-| [object-detection-opencv](https://github.com/ramya036/object-detection-opencv) | Object detection in images and live webcam video | Python, OpenCV |
-| [multilingual-translator](https://github.com/ramya036/multilingual-translator) | Translate and transliterate text, files or speech | Python, Tkinter |
-| [voice-assistant](https://github.com/ramya036/voice-assistant) | Voice-controlled desktop assistant | Python |
-| [react-produce-filter](https://github.com/ramya036/react-produce-filter) · [tic-tac-toe-react](https://github.com/ramya036/tic-tac-toe-react) | React apps: search/filter list and a game vs. the computer | React |
-| [fifteen-puzzle](https://github.com/ramya036/fifteen-puzzle) | Sliding-tile puzzle with timer and move counter | JavaScript, jQuery |
 
 ---
 
