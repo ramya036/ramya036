@@ -32,7 +32,7 @@ Every project has tests that run on GitHub Actions, a screenshot and a README in
 | Project | What it is | Tech |
 |---|---|---|
 | 🧭 **[Job Copilot](https://github.com/ramya036/job-copilot)** | AI agent that tailors a résumé to a job, checks every line against the original and revises anything it made up | Python, FastAPI, React, Gemini |
-| 🗺️ **[Codebase Guide](https://github.com/ramya036/codebase-guide)** | AI agent that explores a GitHub repo with tools and answers with verified citations to the exact lines | Python, FastAPI, React, Gemini |
+| 🗺️ **[Codebase Guide](https://github.com/ramya036/codebase-guide)** | LangGraph agent that explores a GitHub repo through its own MCP server and answers with verified citations to the exact lines | Python, LangGraph, MCP, FastAPI, React, Gemini |
 | 🤖 **[AskDB](https://github.com/ramya036/askdb)** | Ask a database questions in plain English: RAG over the schema with FAISS, Gemini writes safe read-only SQL | Python, FastAPI, FAISS, Gemini |
 | 🌐 **[MealMate](https://github.com/ramya036/mealmate)** | Food ordering with JWT auth, customer and admin roles, and Stripe payments confirmed by signed webhooks | Java, Spring Boot, React, MySQL, Stripe |
 | 👁️ **[Object detection](https://github.com/ramya036/object-detection-opencv)** | Detects 80 kinds of objects in photos and live webcam video | Python, OpenCV |
